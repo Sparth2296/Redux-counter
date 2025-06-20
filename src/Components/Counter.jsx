@@ -11,7 +11,7 @@ const Counter = () => {
       className="d-flex justify-content-center align-items-center"
       style={{
         minHeight: '100vh',
-        background: 'linear-gradient(135deg,rgb(255, 255, 255),rgb(0, 131, 219))',
+        background: 'linear-gradient(135deg,rgb(255, 255, 255),rgb(0, 166, 255))',
       }}
     >
       <div
@@ -25,7 +25,7 @@ const Counter = () => {
           width: '90%',
         }}
       >
-        <h2 className="fw-bold mb-4">🚀 Stylish Counter</h2>
+        <h2 className="fw-bold mb-4"> Redux Counter</h2>
 
         <div
           className="display-3 fw-bold mb-5"
